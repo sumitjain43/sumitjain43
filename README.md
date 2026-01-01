@@ -2,7 +2,7 @@
 I’m a **B.Tech student and MERN Stack Developer** with a strong interest in **software development and problem-solving**.  
 I enjoy building **full-stack web applications** using **MongoDB, Express, React, and Node.js**, and continuously improving my understanding of **core computer science fundamentals, C++, and Data Structures & Algorithms**.
 
-I like learning concepts from the ground up and applying them to real-world projects.
+I actively practice problem-solving on platforms like **LeetCode and CodeChef**, focusing on writing efficient and optimized solutions.
 
 ---
 
@@ -10,6 +10,12 @@ I like learning concepts from the ground up and applying them to real-world proj
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sumitjain_27)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-jain-772811258)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jain77282@gmail.com)
+
+---
+
+## 🧠 Coding Profiles:
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sumitjain43/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/easy_toads_75)
 
 ---
 
